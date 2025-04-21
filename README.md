@@ -1,5 +1,4 @@
 - 👋 Greetings, I’m Lars Tennstedt, a professional Java software developer, mathematician and Linux/BSD administrator from Germany.
-- 👀 I’m interested in video games, TV series, astronomy, good stories and technology in general.
-- 🌱 I’m currently learning Java 17, Kotlin, Scala, Groovy, JavaScript and TypeScript.
+- 🌱 I’m currently learning Kotlin, Scala, Groovy, JavaScript and TypeScript.
 - 💞️ I’m looking forward to collaborate on open source projects.
 - 📫 How to reach me: I'm on [XING](https://www.xing.com/profile/Lars_Tennstedt) and [LinkedIn](https://www.linkedin.com/in/lars-tennstedt-28045624b).
